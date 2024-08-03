@@ -1,3 +1,3 @@
 [THIS REPO IS UNDER CONSTRUCTION, PLEASE CHECK BACK LATER]
-# homeserver
-Examples of homeservers
+# K0K0$H@'s homeserver
+
